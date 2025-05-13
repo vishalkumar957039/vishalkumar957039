@@ -1,10 +1,43 @@
-- 👋 Hi, I’m @vishalkumar957039
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there, I’m Vishal Kumar (@vishalkumar957039)
 
-<!---
-vishalkumar957039/vishalkumar957039 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 **Cybersecurity Enthusiast | Security Researcher | Bug Bounty Hunter**  
+🏆 **Recognized in Hall of Fame by**:  
+Google · Apple · Oracle · NASA · BlackBerry · BBC · Homeland Security · and other government organizations.
+
+---
+
+## 👀 What I’m Interested In:
+- Web application security (XSS, SQLi, SSRF, RCE, IDOR, LFI, etc.)
+- Cloud and API security
+- Red teaming and penetration testing
+- Exploring zero-day vulnerabilities
+- Open-source security tooling
+
+---
+
+## 🌱 Currently Learning:
+- Advanced exploit development  
+- Threat hunting and malware analysis  
+- Automation in cybersecurity (Python, Bash scripting)  
+- AI/ML applications in security
+
+---
+
+## 🤝 Looking to Collaborate On:
+- Open-source security projects  
+- Capture The Flag (CTF) events and challenges  
+- Building tools for bug bounty hunters and security analysts  
+- Security research papers or publications
+
+---
+
+## 📫 Let’s Connect:
+- 📧 Email: `vishalkumar957039@gmail.com`  
+- 🐦 Twitter: [@vishalxdev](https://twitter.com/vishalxdev)  
+- 🔗 LinkedIn: [Vishal Kumar](https://www.linkedin.com/in/vishalkumar957039)  
+- 🌐 Website: [https://threadsecurity.org](https://threadsecurity.org)
+
+---
+
+> “Hacking is not just a skill—it's an art. And I believe in securing the digital world, one bug at a time.”
+
