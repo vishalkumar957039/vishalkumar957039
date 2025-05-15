@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Vishal Kumar (@vishalkumar957039)
+# 👋 Hi there, I’m Vishal Kumar 
 
 🔍 **Cybersecurity Enthusiast | Security Researcher | Bug Bounty Hunter**  
 🏆 **Recognized in Hall of Fame by**:  
