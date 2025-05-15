@@ -33,7 +33,7 @@ Google · Apple · Oracle · NASA · BlackBerry · BBC · Homeland Security · a
 
 ## 📫 Let’s Connect:
 - 📧 Email: `vishalkumar957039@gmail.com`  
-- 🐦 Twitter: [@vishalxdev](https://twitter.com/vishalxdev)  
+- 🐦 Twitter: [@vishalxdev](https://twitter.com/HackTheMatrix7)  
 - 🔗 LinkedIn: [Vishal Kumar](https://www.linkedin.com/in/vishalkumar957039)  
 - 🌐 Website: [https://threadsecurity.org](https://threadsecurity.org)
 
