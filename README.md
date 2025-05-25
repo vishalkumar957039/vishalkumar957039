@@ -8,7 +8,7 @@ Google · Apple · Oracle · NASA · BlackBerry · BBC · Homeland Security · a
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
 </br>
----
+
 
 ## 👀 What I’m Interested In:
 - Web application security (XSS, SQLi, SSRF, RCE, IDOR, LFI, etc.)
