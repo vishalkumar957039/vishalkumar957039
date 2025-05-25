@@ -1,14 +1,21 @@
-# 👋 Hi there, I’m Vishal Kumar 
 
-🔍 **Cybersecurity Enthusiast | Security Researcher | Bug Bounty Hunter**  
-🏆 **Recognized in Hall of Fame by**:  
-Google · Apple · Oracle · NASA · BlackBerry · BBC · Homeland Security · and other government organizations.
-<br>
+<h1 align="center">
+  👋 Hi there, I’m <span style="color:#00ffff;">Vishal Kumar</span>
+</h1>
 
-<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
+<p align="center">
+  🔍 <b>Cybersecurity Enthusiast | Security Researcher | Bug Bounty Hunter</b>
+</p>
 
-</br>
 
+<p align="center">
+  🏆 <b>Recognized in Hall of Fame by:</b><br>
+  <img src="https://img.shields.io/badge/Google-HoF-blue?logo=google&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Apple-HoF-black?logo=apple&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Oracle-HoF-red?logo=oracle&style=for-the-badge">
+  <img src="https://img.shields.io/badge/NASA-HoF-gray?logo=nasa&style=for-the-badge">
+  <img src="https://img.shields.io/badge/BBC-HoF-purple?logo=bbc&style=for-the-badge">
+</p>
 
 ## 👀 What I’m Interested In:
 - Web application security (XSS, SQLi, SSRF, RCE, IDOR, LFI, etc.)
