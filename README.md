@@ -3,7 +3,11 @@
 🔍 **Cybersecurity Enthusiast | Security Researcher | Bug Bounty Hunter**  
 🏆 **Recognized in Hall of Fame by**:  
 Google · Apple · Oracle · NASA · BlackBerry · BBC · Homeland Security · and other government organizations.
+<br>
 
+<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
+
+</br>
 ---
 
 ## 👀 What I’m Interested In:
@@ -14,11 +18,7 @@ Google · Apple · Oracle · NASA · BlackBerry · BBC · Homeland Security · a
 - Open-source security tooling
 
 ---
-<br>
 
-<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
-
-</br>
 ## 🌱 Currently Learning:
 - Advanced exploit development  
 - Threat hunting and malware analysis  
