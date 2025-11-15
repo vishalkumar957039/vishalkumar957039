@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 </p>
 <div align="center">
-<h2> Hi, I'm Sebass! <img src="https://github.githubassets.com/images/mona-whisper.gif" width="50"></h2>
+<h2> Hi, I'm Vishal! <img src="https://github.githubassets.com/images/mona-whisper.gif" width="50"></h2>
 
 
 <p float="left">
